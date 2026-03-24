@@ -18,6 +18,3 @@ Um algoritmo mais complexo que utiliza estruturas de repetição (loops) e condi
 
 Para rodar e testar estes códigos, você precisará de um simulador MIPS, como o **MARS (MIPS Assembler and Runtime Simulator)** ou o **QtSPIM**.
 
-1. Faça o clone deste repositório:
-   ```bash
-   git clone [https://github.com/SEU-USUARIO/NOME-DO-REPOSITORIO.git](https://github.com/SEU-USUARIO/NOME-DO-REPOSITORIO.git)
